@@ -17,7 +17,7 @@ weight = 2
 contactLink = "mailto:carlosrgonzalez@protonmail.com"
 copyright = "All right reserved copyright © Carlos Gonzalez 2021"
 footerLogo = "images/contact/widget-logo.png"
-logo = "images/site-navigation/logo.png"
+logo = "images/favicon.png"
 
 # Social icons
 [[params.social]]

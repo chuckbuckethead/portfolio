@@ -1,3 +1,38 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "portio"
+title = "Carlos Gonzalez"
+
+# Main Menu
+[[menu.main]]
+name = "Portfolio"
+url = "#portfolio"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+
+[params]
+contactLink = "mailto:carlosrgonzalez@protonmail.com"
+copyright = "All right reserved copyright © Carlos Gonzalez 2021"
+footerLogo = "images/contact/widget-logo.png"
+logo = "images/site-navigation/logo.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-github"
+url = "https://github.com/chuckbuckethead/"
+weight = 1
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/in/carlosrmgonzalez/"
+weight = 2
+[[params.social]]
+icon = "fa-angellist"
+url = "https://angel.co/u/crgc/"
+weight = 3
+[[params.social]]
+icon = "fa-twitter-square"
+url = "https://twitter.com/aclerkofpomier/"
+weight = 4

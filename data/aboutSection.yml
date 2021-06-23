@@ -1,0 +1,14 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+content: >
+  ### Software Engineer with over ten years of experience in backend and full-stack development.
+
+  I have a passion for problem-solving, and I'm particularly good at bringing abstract ideas into concrete reality through object-oriented design.
+button1Name: LinkedIn
+button2Name: Github
+button1Target: https://www.linkedin.com/in/carlosrmgonzalez/
+button2Target: https://github.com/chuckbuckethead/
+image: images/about/about-img.jpeg

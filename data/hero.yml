@@ -1,0 +1,10 @@
+---
+enable: true
+topTitle: Hello, I'm Carlos
+content: >
+  # Software Engineer
+
+  I'm a Software Engineer with over 10 years of experience building robust and scalable applications.
+  Passionate about solving hard problems and tackling interesting challenges
+buttonName: View my projects
+image: images/hero/carlos.jpg
